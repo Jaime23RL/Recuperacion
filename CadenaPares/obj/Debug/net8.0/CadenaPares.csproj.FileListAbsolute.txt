@@ -1,0 +1,14 @@
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\bin\Debug\net8.0\CadenaPares.exe
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\bin\Debug\net8.0\CadenaPares.deps.json
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\bin\Debug\net8.0\CadenaPares.runtimeconfig.json
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\bin\Debug\net8.0\CadenaPares.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\bin\Debug\net8.0\CadenaPares.pdb
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\obj\Debug\net8.0\CadenaPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\obj\Debug\net8.0\CadenaPares.AssemblyInfoInputs.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\obj\Debug\net8.0\CadenaPares.AssemblyInfo.cs
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\obj\Debug\net8.0\CadenaPares.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\obj\Debug\net8.0\CadenaPares.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\obj\Debug\net8.0\refint\CadenaPares.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\obj\Debug\net8.0\CadenaPares.pdb
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\obj\Debug\net8.0\CadenaPares.genruntimeconfig.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\CadenaPares\obj\Debug\net8.0\ref\CadenaPares.dll

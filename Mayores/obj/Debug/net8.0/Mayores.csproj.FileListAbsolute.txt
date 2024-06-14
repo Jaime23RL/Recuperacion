@@ -1,0 +1,14 @@
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\bin\Debug\net8.0\Mayores.exe
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\bin\Debug\net8.0\Mayores.deps.json
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\bin\Debug\net8.0\Mayores.runtimeconfig.json
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\bin\Debug\net8.0\Mayores.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\bin\Debug\net8.0\Mayores.pdb
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\obj\Debug\net8.0\Mayores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\obj\Debug\net8.0\Mayores.AssemblyInfoInputs.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\obj\Debug\net8.0\Mayores.AssemblyInfo.cs
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\obj\Debug\net8.0\Mayores.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\obj\Debug\net8.0\Mayores.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\obj\Debug\net8.0\refint\Mayores.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\obj\Debug\net8.0\Mayores.pdb
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\obj\Debug\net8.0\Mayores.genruntimeconfig.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\Mayores\obj\Debug\net8.0\ref\Mayores.dll

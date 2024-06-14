@@ -1,0 +1,14 @@
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\bin\Debug\net8.0\ListaNumeros.exe
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\bin\Debug\net8.0\ListaNumeros.deps.json
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\bin\Debug\net8.0\ListaNumeros.runtimeconfig.json
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\bin\Debug\net8.0\ListaNumeros.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\bin\Debug\net8.0\ListaNumeros.pdb
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\obj\Debug\net8.0\ListaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\obj\Debug\net8.0\ListaNumeros.AssemblyInfoInputs.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\obj\Debug\net8.0\ListaNumeros.AssemblyInfo.cs
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\obj\Debug\net8.0\ListaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\obj\Debug\net8.0\ListaNumeros.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\obj\Debug\net8.0\refint\ListaNumeros.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\obj\Debug\net8.0\ListaNumeros.pdb
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\obj\Debug\net8.0\ListaNumeros.genruntimeconfig.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\ListaNumeros\obj\Debug\net8.0\ref\ListaNumeros.dll

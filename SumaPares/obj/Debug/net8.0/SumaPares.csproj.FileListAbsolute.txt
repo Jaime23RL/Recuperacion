@@ -1,0 +1,14 @@
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\bin\Debug\net8.0\SumaPares.exe
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\bin\Debug\net8.0\SumaPares.deps.json
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\bin\Debug\net8.0\SumaPares.runtimeconfig.json
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\bin\Debug\net8.0\SumaPares.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\bin\Debug\net8.0\SumaPares.pdb
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\obj\Debug\net8.0\SumaPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\obj\Debug\net8.0\SumaPares.AssemblyInfoInputs.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\obj\Debug\net8.0\SumaPares.AssemblyInfo.cs
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\obj\Debug\net8.0\SumaPares.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\obj\Debug\net8.0\SumaPares.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\obj\Debug\net8.0\refint\SumaPares.dll
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\obj\Debug\net8.0\SumaPares.pdb
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\obj\Debug\net8.0\SumaPares.genruntimeconfig.cache
+C:\Users\Jaime\Desktop\recu\Recuperacion\SumaPares\obj\Debug\net8.0\ref\SumaPares.dll
